@@ -5,6 +5,7 @@
 - [Jenkins Monitor Pro Plugin](https://plugins.jenkins.io/monitor-pro/)
 - [Jenkins Metrics Plugin](https://plugins.jenkins.io/metrics/)
 - [Jenkins Prometheus Metrics Plugin](https://plugins.jenkins.io/prometheus/)
+- [Jenkins OpenTelemetry Plugin](https://github.com/jenkinsci/opentelemetry-plugin)
 
 # Solutions or Blogs
 
