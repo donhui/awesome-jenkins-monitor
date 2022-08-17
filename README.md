@@ -1,11 +1,15 @@
 
 # Jenkins Plugins
 
-- [Jenkins Build Monitor View Plugin](https://plugins.jenkins.io/build-monitor-plugin/)
-- [Jenkins Monitor Pro Plugin](https://plugins.jenkins.io/monitor-pro/)
-- [Jenkins Metrics Plugin](https://plugins.jenkins.io/metrics/)
-- [Jenkins Prometheus Metrics Plugin](https://plugins.jenkins.io/prometheus/)
-- [Jenkins OpenTelemetry Plugin](https://github.com/jenkinsci/opentelemetry-plugin)
+|  Plugin Name   | Installs  |
+|  ----  | ----  |
+| Monitoring | [![Installs](https://img.shields.io/jenkins/plugin/i/monitoring.svg?color=blue)](https://plugins.jenkins.io/monitoring/) |
+| Build Monitor View  | [![Installs](https://img.shields.io/jenkins/plugin/i/build-monitor-plugin.svg?color=blue)](https://plugins.jenkins.io/build-monitor-plugin) |
+| Monitor Pro | [![Installs](https://img.shields.io/jenkins/plugin/i/monitor-pro.svg?color=blue)](https://plugins.jenkins.io/monitor-pro/) |
+| Metrics | [![Installs](https://img.shields.io/jenkins/plugin/i/metrics.svg?color=blue)](https://plugins.jenkins.io/metrics/) |
+| Prometheus metrics | [![Installs](https://img.shields.io/jenkins/plugin/i/prometheus.svg?color=blue)](https://plugins.jenkins.io/prometheus/) |
+| OpenTelemetry | [![Installs](https://img.shields.io/jenkins/plugin/i/opentelemetry.svg?color=blue)](https://plugins.jenkins.io/opentelemetry/) |
+| Job and Stage monitoring | [![Installs](https://img.shields.io/jenkins/plugin/i/github-autostatus.svg?color=blue)](https://plugins.jenkins.io/github-autostatus/) |
 
 # Solutions or Blogs
 
