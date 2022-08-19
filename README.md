@@ -28,3 +28,6 @@
 - [Prometheus Jenkins Exporter]
   - [Jenkins Exporter GitHub Repo](https://github.com/akawork/jenkins-exporter)
   - [Jenkins Exporter Grafana Dashboard](https://grafana.com/grafana/dashboards/10762-jenkins-exporter/)
+- [Apache DevLake] 
+  - [Configuring Jenkins](https://devlake.apache.org/docs/UserManuals/ConfigUI/Jenkins)
+  - [Jenkins Plugin](https://devlake.apache.org/docs/Plugins/jenkins)  
