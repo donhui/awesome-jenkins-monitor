@@ -25,7 +25,9 @@
   - [Site24x7 Plugins](https://github.com/site24x7/plugins)
 - [Zabbix] [Jenkins monitoring and integration with Zabbix](https://www.zabbix.com/cn/integrations/jenkins)
 - [LogicMonitor] [Jenkins Monitoring](https://www.logicmonitor.com/support/jenkins-monitoring)
-- [InfluxData] [InfluxDB Jenkins Monitoring Template](https://www.influxdata.com/influxdb-templates/jenkins-monitoring/)
+- [InfluxData] 
+  - [InfluxDB Jenkins Monitoring Template](https://www.influxdata.com/influxdb-templates/jenkins-monitoring/)
+  - [Telegraf Jenkins Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/jenkins)
 - [Grafana] 
   - [Monitor Jenkins easily with Grafana](https://grafana.com/solutions/jenkins/monitor/)
   - [Jenkins integration for Grafana Cloud](https://grafana.com/docs/grafana-cloud/data-configuration/integrations/integration-reference/integration-jenkins/)
