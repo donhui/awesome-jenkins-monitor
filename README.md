@@ -8,6 +8,7 @@
 | Monitor Pro | [![Installs](https://img.shields.io/jenkins/plugin/i/monitor-pro.svg?color=blue)](https://plugins.jenkins.io/monitor-pro/) |
 | Metrics | [![Installs](https://img.shields.io/jenkins/plugin/i/metrics.svg?color=blue)](https://plugins.jenkins.io/metrics/) |
 | Prometheus metrics | [![Installs](https://img.shields.io/jenkins/plugin/i/prometheus.svg?color=blue)](https://plugins.jenkins.io/prometheus/) |
+| CloudBees Disk Usage Simple | [![Installs](https://img.shields.io/jenkins/plugin/i/cloudbees-disk-usage-simple.svg?color=blue)](https://plugins.jenkins.io/cloudbees-disk-usage-simple/) |
 | OpenTelemetry | [![Installs](https://img.shields.io/jenkins/plugin/i/opentelemetry.svg?color=blue)](https://plugins.jenkins.io/opentelemetry/) |
 | Job and Stage monitoring | [![Installs](https://img.shields.io/jenkins/plugin/i/github-autostatus.svg?color=blue)](https://plugins.jenkins.io/github-autostatus/) |
 
