@@ -16,7 +16,9 @@
 # Solutions or Blogs
 
 - [ALMtoolbox] [ALM Performance: Continuously Monitor Performance and Vitality of your Jenkins Deployment](https://www.almtoolbox.com/jenkins-monitoring.php)
-- [Datadog] [Monitor Jenkins jobs with Datadog](https://www.datadoghq.com/blog/monitor-jenkins-datadog/)
+- [Datadog] 
+  - [Monitor Jenkins jobs with Datadog](https://www.datadoghq.com/blog/monitor-jenkins-datadog/)
+  - [Monitor your CI pipelines and tests with Datadog CI Visibility](https://www.datadoghq.com/blog/datadog-ci-visibility/)
 - [Instana] [Monitoring Jenkins Server, Builds, Jobs, and Services](https://www.instana.com/blog/monitoring-jenkins-using-instana/)
 - [Site24x7] 
   - [Jenkins Monitoring Tool](https://www.site24x7.com/plugins/jenkins-monitoring.html)
