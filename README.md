@@ -11,6 +11,7 @@
 | CloudBees Disk Usage Simple | [![Installs](https://img.shields.io/jenkins/plugin/i/cloudbees-disk-usage-simple.svg?color=blue)](https://plugins.jenkins.io/cloudbees-disk-usage-simple/) |
 | OpenTelemetry | [![Installs](https://img.shields.io/jenkins/plugin/i/opentelemetry.svg?color=blue)](https://plugins.jenkins.io/opentelemetry/) |
 | Job and Stage monitoring | [![Installs](https://img.shields.io/jenkins/plugin/i/github-autostatus.svg?color=blue)](https://plugins.jenkins.io/github-autostatus/) |
+| Datadog | [![Installs](https://img.shields.io/jenkins/plugin/i/datadog.svg?color=blue)](https://plugins.jenkins.io/gdatadog/) |
 
 # Solutions or Blogs
 
