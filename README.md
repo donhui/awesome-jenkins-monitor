@@ -38,3 +38,4 @@
   - [Configuring Jenkins](https://devlake.apache.org/docs/UserManuals/ConfigUI/Jenkins)
   - [Jenkins Plugin](https://devlake.apache.org/docs/Plugins/jenkins)  
 - [Opsview] [Jenkins Monitoring](https://www.opsview.com/product/system-monitoring/application/jenkins-monitoring)  
+- [Cronitor] [Jenkins Monitoring](https://cronitor.io/docs/jenkins-monitoring)
