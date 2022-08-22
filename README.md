@@ -40,3 +40,6 @@
   - [Jenkins Plugin](https://devlake.apache.org/docs/Plugins/jenkins)  
 - [Opsview] [Jenkins Monitoring](https://www.opsview.com/product/system-monitoring/application/jenkins-monitoring)  
 - [Cronitor] [Jenkins Monitoring](https://cronitor.io/docs/jenkins-monitoring)
+- [CatLight] 
+  - [Build status notifications for Jenkins](https://catlight.io/a/jenkins-build-status-notifications)
+  - [Download CatLight](https://catlight.io/downloads)
