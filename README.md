@@ -1,17 +1,18 @@
 
 # Jenkins Plugins
 
-|  Plugin Name   | Installs  |
-|  ----  | ----  |
-| Monitoring | [![Installs](https://img.shields.io/jenkins/plugin/i/monitoring.svg?color=blue)](https://plugins.jenkins.io/monitoring/) |
-| Build Monitor View  | [![Installs](https://img.shields.io/jenkins/plugin/i/build-monitor-plugin.svg?color=blue)](https://plugins.jenkins.io/build-monitor-plugin) |
-| Monitor Pro | [![Installs](https://img.shields.io/jenkins/plugin/i/monitor-pro.svg?color=blue)](https://plugins.jenkins.io/monitor-pro/) |
-| Metrics | [![Installs](https://img.shields.io/jenkins/plugin/i/metrics.svg?color=blue)](https://plugins.jenkins.io/metrics/) |
-| Prometheus metrics | [![Installs](https://img.shields.io/jenkins/plugin/i/prometheus.svg?color=blue)](https://plugins.jenkins.io/prometheus/) |
-| CloudBees Disk Usage Simple | [![Installs](https://img.shields.io/jenkins/plugin/i/cloudbees-disk-usage-simple.svg?color=blue)](https://plugins.jenkins.io/cloudbees-disk-usage-simple/) |
-| OpenTelemetry | [![Installs](https://img.shields.io/jenkins/plugin/i/opentelemetry.svg?color=blue)](https://plugins.jenkins.io/opentelemetry/) |
-| Job and Stage monitoring | [![Installs](https://img.shields.io/jenkins/plugin/i/github-autostatus.svg?color=blue)](https://plugins.jenkins.io/github-autostatus/) |
-| Datadog | [![Installs](https://img.shields.io/jenkins/plugin/i/datadog.svg?color=blue)](https://plugins.jenkins.io/gdatadog/) |
+|  Plugin Name   | Installs  | Description |
+|  ----  | ----  | ----  | 
+| Monitoring | [![Installs](https://img.shields.io/jenkins/plugin/i/monitoring.svg?color=blue)](https://plugins.jenkins.io/monitoring/) | Monitoring of the performance of Jenkins itself with JavaMelody. |
+| Build Monitor View  | [![Installs](https://img.shields.io/jenkins/plugin/i/build-monitor-plugin.svg?color=blue)](https://plugins.jenkins.io/build-monitor-plugin) | Build Monitor Plugin provides a highly visible view of the status of selected Jenkins jobs. |
+| Monitor Pro | [![Installs](https://img.shields.io/jenkins/plugin/i/monitor-pro.svg?color=blue)](https://plugins.jenkins.io/monitor-pro/) | Monitor Pro Plugin, is a plugin to monitoring the status of the Jobs of a selected view, built as an Angular SPA. |
+| Metrics | [![Installs](https://img.shields.io/jenkins/plugin/i/metrics.svg?color=blue)](https://plugins.jenkins.io/metrics/) | This plugin exposes the Metrics API to Jenkins plugins. |
+| Prometheus metrics | [![Installs](https://img.shields.io/jenkins/plugin/i/prometheus.svg?color=blue)](https://plugins.jenkins.io/prometheus/) | Jenkins Prometheus Plugin expose an endpoint (default /prometheus) with metrics where a Prometheus Server can scrape. |
+| CloudBees Disk Usage Simple | [![Installs](https://img.shields.io/jenkins/plugin/i/cloudbees-disk-usage-simple.svg?color=blue)](https://plugins.jenkins.io/cloudbees-disk-usage-simple/) | Simple disk usage plugin that calculates disk usage while limiting the performance impact on the Jenkins master. |
+| OpenTelemetry | [![Installs](https://img.shields.io/jenkins/plugin/i/opentelemetry.svg?color=blue)](https://plugins.jenkins.io/opentelemetry/) | Monitor and observe Jenkins with OpenTelemetry. |
+| Job and Stage monitoring | [![Installs](https://img.shields.io/jenkins/plugin/i/github-autostatus.svg?color=blue)](https://plugins.jenkins.io/github-autostatus/) | This plugin automatically sends status notification for all stages in any pipeline job. |
+| Datadog | [![Installs](https://img.shields.io/jenkins/plugin/i/datadog.svg?color=blue)](https://plugins.jenkins.io/gdatadog/) | A Jenkins plugin for automatically forwarding metrics, events, and service checks to a Datadog account. |
+
 
 # Solutions or Blogs
 
