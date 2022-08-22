@@ -1517,6 +1517,7 @@
       "links": [],
       "options": {
         "footer": {
+          "enablePagination": true,
           "fields": "",
           "reducer": [
             "sum"
@@ -2541,7 +2542,7 @@
     ]
   },
   "time": {
-    "from": "now-30m",
+    "from": "now-3h",
     "to": "now"
   },
   "timepicker": {
@@ -2572,6 +2573,6 @@
   "timezone": "browser",
   "title": "Jenkins Monitoring",
   "uid": "jenkins",
-  "version": 118,
+  "version": 122,
   "weekStart": ""
 }
