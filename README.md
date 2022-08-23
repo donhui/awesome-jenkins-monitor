@@ -43,3 +43,6 @@
 - [CatLight] 
   - [Build status notifications for Jenkins](https://catlight.io/a/jenkins-build-status-notifications)
   - [Download CatLight](https://catlight.io/downloads)
+- [Sematext] [Jenkins Monitoring Integration](https://sematext.com/docs/integration/jenkins/)
+
+
