@@ -26,7 +26,7 @@
   "fiscalYearStartMonth": 0,
   "gnetId": 9964,
   "graphTooltip": 0,
-  "id": 1,
+  "id": 4,
   "links": [],
   "liveNow": false,
   "panels": [
@@ -184,6 +184,7 @@
           "expr": "jenkins_job_queuing_duration{instance=~\"$instance\"}",
           "format": "time_series",
           "intervalFactor": 1,
+          "legendFormat": "{{quantile}}",
           "range": true,
           "refId": "A"
         }
@@ -1299,7 +1300,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "dark-green"
+                "color": "dark-green",
+                "value": null
               },
               {
                 "color": "dark-blue",
@@ -1377,7 +1379,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "dark-green"
+                "color": "dark-green",
+                "value": null
               },
               {
                 "color": "#37872D",
@@ -1455,7 +1458,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -1572,7 +1576,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "dark-green"
+                "color": "dark-green",
+                "value": null
               },
               {
                 "color": "dark-purple",
@@ -1651,7 +1656,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "#37872D"
+                "color": "#37872D",
+                "value": null
               },
               {
                 "color": "dark-blue",
@@ -1729,7 +1735,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(245, 54, 54, 0.9)"
+                "color": "rgba(245, 54, 54, 0.9)",
+                "value": null
               },
               {
                 "color": "dark-orange",
@@ -1812,7 +1819,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "#37872D"
+                "color": "#37872D",
+                "value": null
               },
               {
                 "color": "dark-orange",
@@ -2000,7 +2008,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)"
+                "color": "rgba(50, 172, 45, 0.97)",
+                "value": null
               },
               {
                 "color": "#37872D",
@@ -2082,7 +2091,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)"
+                "color": "rgba(50, 172, 45, 0.97)",
+                "value": null
               },
               {
                 "color": "#37872D",
@@ -2164,7 +2174,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "#37872D"
+                "color": "#37872D",
+                "value": null
               },
               {
                 "color": "#C4162A",
@@ -2457,7 +2468,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "blue"
+                "color": "blue",
+                "value": null
               }
             ]
           },
@@ -2515,7 +2527,7 @@
     "list": [
       {
         "current": {
-          "selected": false,
+          "selected": true,
           "text": "jenkins-blue.sensorsdata.cn:80",
           "value": "jenkins-blue.sensorsdata.cn:80"
         },
@@ -2571,8 +2583,8 @@
     ]
   },
   "timezone": "browser",
-  "title": "Jenkins Monitoring",
-  "uid": "jenkins",
-  "version": 122,
+  "title": "Jenkins",
+  "uid": "2UJijx65J",
+  "version": 3,
   "weekStart": ""
 }
